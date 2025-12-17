@@ -191,4 +191,4 @@ sql
 <img src="airtifacts/выполнение dag.png" alt="выполнение dag" width="2000" height="1000">
 </details>
 
-Python-скрипт с DAG приведен [здесь](https://github.com/steishas/homework6mipt_apacheairflow/blob/main/python_scripts/my_dag.py)
+Python-скрипт с DAG приведен [здесь](https://github.com/steishas/homework6mipt_apacheairflow/blob/main/python_scripts/%D0%A1%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B2%D0%B0_%D0%90_%D0%9C.py)
